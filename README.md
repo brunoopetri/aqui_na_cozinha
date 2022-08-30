@@ -10,7 +10,7 @@ Aprendi a trabalhar com **virtualização** e **criação de servidor** com Djan
 
   
 
-Evitei **códigos duplicados** usando as ``templates`` tags de ```extends``` como na criação de ```base.html```. Tanto na ```index.html``` quanto nos outros códigos, aprendi a estender o ```html``` no topo do código para evitar duplicação, sempre preocupando com as **boas práticas**.  
+Evitei **códigos duplicados** usando as ``templates`` tags de ``extends`` como na criação de ``base.html``. Tanto na ``index.html`` quanto nos outros códigos, aprendi a estender o ```html``` no topo do código para evitar duplicação, sempre preocupando com as **boas práticas**.  
 
   
 
@@ -18,4 +18,4 @@ Além disso, criei o **modelo** de receitas em ``models.py`` onde todos os atrib
 
   
 
-Por fim, aprendi a trabalhar com a página de **Administração do Django** que nos garante um crude completo para podermos criar, editar, deletar, atualizar e visualizar receitas em nossa aplicação. 
+Por fim, aprendi a trabalhar com a página de **Administração do Django** que nos garante um ``crude`` completo para podermos criar, editar, deletar, atualizar e visualizar receitas em nossa aplicação. 
